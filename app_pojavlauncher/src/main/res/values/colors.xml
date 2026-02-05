@@ -1,13 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="background">#0D0D0D</color>
-    <color name="surface">#1A1A1A</color>
-    <color name="primary">#00ADB5</color>
-    <color name="primary_dark">#007B83</color>
-    <color name="accent">#FF5722</color>
-    <color name="text_primary">#EEEEEE</color>
-    <color name="text_secondary">#AAAAAA</color>
-    <color name="button_normal">#00ADB5</color>
-    <color name="button_pressed">#007B83</color>
-    <color name="title_text">#00ADB5</color>
+    <!-- Основные цвета -->
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="primary">#BB86FC</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC6</color>
+    
+    <!-- Текст -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_disabled">#666666</color>
+    
+    <!-- Кнопки -->
+    <color name="button_normal">#6200EE</color>
+    <color name="button_pressed">#3700B3</color>
+    <color name="button_disabled">#424242</color>
+    
+    <!-- Акценты -->
+    <color name="accent">#FF4081</color>
+    <color name="error">#CF6679</color>
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FF9800</color>
+    
+    <!-- Дополнительные -->
+    <color name="divider">#2D2D2D</color>
+    <color name="highlight">#2A2A2A</color>
+    <color name="overlay">#80000000</color>
 </resources>
